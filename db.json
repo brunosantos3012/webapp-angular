@@ -1,0 +1,1005 @@
+{
+  "customer": [
+    {
+      "id": "f6f3660e-4a31-4408-92a5-3c40e6113bcf",
+      "customerName": "Marcelo Nogueira",
+      "cpf": "393.996.622-33",
+      "birthDay": "Tue Jun 29 1954 07: 38: 31 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "992.82",
+      "createdDate": "Sat Feb 04 2023 19: 13: 20 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": {
+        "email": "Antnio_Martins@hotmail.com"
+      }
+    },
+    {
+      "id": "16d22c62-577b-4b4f-abf1-54f2a89986b4",
+      "customerName": "Alessandro Albuquerque",
+      "cpf": "232.877.308-78",
+      "birthDay": "Mon Jun 02 1980 08: 49: 07 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "510.61",
+      "createdDate": "Tue Mar 29 2022 11: 36: 20 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "MariaJlia_Franco33@bol.com.br"
+      }
+    },
+    {
+      "id": "c98948b4-4a7d-4379-9fc3-2af3c52e42a4",
+      "customerName": "Caio Souza",
+      "cpf": "313.888.426-10",
+      "birthDay": "Tue May 25 1943 14: 51: 32 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "653.00",
+      "createdDate": "Sat May 21 2022 02: 39: 18 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Liz_Batista28@hotmail.com"
+      }
+    },
+    {
+      "id": "57c54012-6cca-4af7-86e9-139460f13b62",
+      "customerName": "Sara Albuquerque",
+      "cpf": "214.875.871-39",
+      "birthDay": "Thu May 07 1998 06: 34: 32 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "477.24",
+      "createdDate": "Sun Feb 26 2023 14: 03: 19 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Morgana67@bol.com.br"
+      }
+    },
+    {
+      "id": "28394d46-4b99-4a6b-83c9-bd6e916a3ee8",
+      "customerName": "Frederico Martins",
+      "cpf": "493.215.415-19",
+      "birthDay": "Sat Oct 15 1955 01: 48: 45 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "906.96",
+      "createdDate": "Sat Nov 12 2022 10: 45: 43 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Tho.Franco56@gmail.com"
+      }
+    },
+    {
+      "id": "03bb2a94-3525-4bfa-9fc8-daf6f1738ac4",
+      "customerName": "Alessandro Moreira",
+      "cpf": "570.626.312-48",
+      "birthDay": "Sat Mar 27 1976 13: 30: 29 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "368.85",
+      "createdDate": "Sun Aug 07 2022 17: 34: 22 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Klber.Franco@live.com"
+      }
+    },
+    {
+      "id": "0ba830d0-d77e-40ce-b9fb-c0a640b43f00",
+      "customerName": "Silas Reis",
+      "cpf": "922.846.620-05",
+      "birthDay": "Thu Jun 02 1955 11: 57: 35 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "858.58",
+      "createdDate": "Sat Nov 05 2022 22: 58: 07 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "AnaLaura21@bol.com.br"
+      }
+    },
+    {
+      "id": "fb2f0c1d-2320-4c25-9e33-58563a0915e8",
+      "customerName": "Maitê Batista",
+      "cpf": "845.046.454-40",
+      "birthDay": "Sun May 16 1954 08: 24: 05 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "818.09",
+      "createdDate": "Wed Oct 19 2022 09: 30: 13 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "MariaAlice_Oliveira@gmail.com"
+      }
+    },
+    {
+      "id": "159bb189-3a88-427d-92a0-9533650693b2",
+      "customerName": "Valentina Santos",
+      "cpf": "176.091.789-34",
+      "birthDay": "Fri Sep 21 1973 00: 11: 40 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "148.77",
+      "createdDate": "Sat Mar 12 2022 14: 46: 10 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Nbia80@live.com"
+      }
+    },
+    {
+      "id": "3c1f8ec3-63d0-46dc-87d8-47136bdd3bd5",
+      "customerName": "Joana Nogueira",
+      "cpf": "389.256.327-64",
+      "birthDay": "Mon Jul 21 1969 09: 34: 01 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "305.07",
+      "createdDate": "Fri Nov 25 2022 21: 33: 25 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "AnaLaura.Xavier@yahoo.com"
+      }
+    },
+    {
+      "id": "bfb98a99-7c75-4b37-9279-0eebb0e721b8",
+      "customerName": "Isadora Reis",
+      "cpf": "337.867.836-40",
+      "birthDay": "Wed Mar 28 1979 06: 21: 22 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "850.23",
+      "createdDate": "Sun Dec 18 2022 19: 43: 53 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Rafaela_Braga1@hotmail.com"
+      }
+    },
+    {
+      "id": "3dadef9b-f149-48c7-9e56-588ba354adb1",
+      "customerName": "Eduarda Costa",
+      "cpf": "131.464.063-14",
+      "birthDay": "Fri Oct 18 1996 21: 34: 02 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "547.40",
+      "createdDate": "Mon Jul 25 2022 05: 20: 18 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Pablo_Martins@gmail.com"
+      }
+    },
+    {
+      "id": "9e6ef299-5067-4056-856e-f611fe52cd50",
+      "customerName": "Helena Albuquerque",
+      "cpf": "964.054.966-51",
+      "birthDay": "Fri Mar 26 1965 12: 01: 57 GMT-0200 (Horário Padrão de Brasília)",
+      "monthlyFinance": "997.67",
+      "createdDate": "Tue Feb 21 2023 02: 20: 34 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Alessandro23@hotmail.com"
+      }
+    },
+    {
+      "id": "3fe97e1a-daaf-47fa-a5ef-7dcc6e75c972",
+      "customerName": "Lucca Moraes",
+      "cpf": "903.476.218-13",
+      "birthDay": "Thu Mar 12 1992 04: 23: 04 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "319.95",
+      "createdDate": "Sun Jun 19 2022 00: 36: 06 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Hugo33@hotmail.com"
+      }
+    },
+    {
+      "id": "6b424b37-b4dd-463e-888f-5c7ed38d8fcf",
+      "customerName": "Valentina Braga",
+      "cpf": "878.228.188-21",
+      "birthDay": "Sat Jun 19 1954 10: 16: 30 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "641.92",
+      "createdDate": "Fri Dec 16 2022 09: 59: 07 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Isabella.Moreira@live.com"
+      }
+    },
+    {
+      "id": "4f4ec9ef-3818-420d-9021-1502b3b7c620",
+      "customerName": "Sophia Costa",
+      "cpf": "894.015.007-46",
+      "birthDay": "Tue Apr 11 1989 12: 57: 06 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "419.04",
+      "createdDate": "Wed Jul 06 2022 21: 00: 46 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Marcos70@live.com"
+      }
+    },
+    {
+      "id": "8e69616a-e00d-4e43-95e6-2f6a7153f610",
+      "customerName": "Benício Carvalho",
+      "cpf": "631.455.947-29",
+      "birthDay": "Fri Apr 13 1951 04: 23: 58 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "215.26",
+      "createdDate": "Sun Jan 15 2023 19: 39: 33 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Marli.Oliveira@bol.com.br"
+      }
+    },
+    {
+      "id": "0b02cd42-47e3-4d93-b8c8-c41ba6d0e2db",
+      "customerName": "Vicente Reis",
+      "cpf": "639.824.505-94",
+      "birthDay": "Tue Jul 25 1989 02: 52: 22 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "914.81",
+      "createdDate": "Sat Jun 25 2022 21: 50: 25 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Paula_Martins@live.com"
+      }
+    },
+    {
+      "id": "1221cc26-1c63-4f05-b450-5b47eacc230c",
+      "customerName": "Karla Saraiva",
+      "cpf": "431.172.009-24",
+      "birthDay": "Mon Jun 02 1958 18: 49: 21 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "118.38",
+      "createdDate": "Wed Apr 20 2022 04: 58: 15 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Roberta73@live.com"
+      }
+    },
+    {
+      "id": "0153ff1d-2ee5-4435-ac18-7d9835fc02b2",
+      "customerName": "Vitória Moreira",
+      "cpf": "515.105.462-78",
+      "birthDay": "Mon Nov 27 2000 18: 06: 45 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "800.84",
+      "createdDate": "Sun Oct 02 2022 15: 31: 55 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Aline.Braga@hotmail.com"
+      }
+    },
+    {
+      "id": "e646c302-b999-49c3-8996-71c2704a8b99",
+      "customerName": "Aline Nogueira",
+      "cpf": "791.964.195-04",
+      "birthDay": "Fri Jan 28 1977 20: 04: 30 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "250.42",
+      "createdDate": "Sat Oct 22 2022 21: 50: 14 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Emanuelly_Braga35@live.com"
+      }
+    },
+    {
+      "id": "f6d3cca6-fdd6-4b95-b29f-a6485a906117",
+      "customerName": "Márcia Franco",
+      "cpf": "010.686.340-14",
+      "birthDay": "Wed Jun 03 1992 01: 43: 47 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "609.98",
+      "createdDate": "Thu Jul 14 2022 01: 23: 34 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Antnio_Souza@bol.com.br"
+      }
+    },
+    {
+      "id": "06d9e3c3-1ed7-457b-bdee-1a8dcf59c425",
+      "customerName": "Samuel Barros",
+      "cpf": "069.623.274-04",
+      "birthDay": "Thu Nov 23 1989 16: 40: 38 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "532.28",
+      "createdDate": "Mon Aug 29 2022 22: 08: 16 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Emanuelly.Santos@bol.com.br"
+      }
+    },
+    {
+      "id": "8d611e52-e442-4b43-bc90-5892a2ce3484",
+      "customerName": "Fabrícia Macedo",
+      "cpf": "808.913.268-55",
+      "birthDay": "Tue Dec 09 1975 20: 30: 30 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "463.72",
+      "createdDate": "Thu Apr 21 2022 14: 59: 27 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Marina53@live.com"
+      }
+    },
+    {
+      "id": "d67b3367-1a34-4219-9764-e353d012c492",
+      "customerName": "Núbia Santos",
+      "cpf": "296.540.109-17",
+      "birthDay": "Fri Aug 06 2004 04: 02: 59 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "870.79",
+      "createdDate": "Mon May 09 2022 17: 15: 09 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Alessandro.Macedo50@gmail.com"
+      }
+    },
+    {
+      "id": "0dfc0830-23d2-477f-829d-4e6444b40f55",
+      "customerName": "Yango Macedo",
+      "cpf": "593.613.473-30",
+      "birthDay": "Wed Apr 08 1987 14: 13: 08 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "938.29",
+      "createdDate": "Sat Feb 04 2023 03: 29: 57 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Alessandra8@live.com"
+      }
+    },
+    {
+      "id": "21740e9a-4a30-4e66-a8ee-8e5bc80b30ab",
+      "customerName": "Cecília Albuquerque",
+      "cpf": "156.940.754-12",
+      "birthDay": "Mon Apr 01 1946 09: 08: 35 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "402.03",
+      "createdDate": "Thu Mar 17 2022 17: 40: 12 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "AnaClara_Xavier88@hotmail.com"
+      }
+    },
+    {
+      "id": "d2ff8792-0fd9-4d66-929c-4350438093a0",
+      "customerName": "Isaac Moreira",
+      "cpf": "119.208.356-36",
+      "birthDay": "Sat Nov 19 2005 23: 25: 58 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "443.52",
+      "createdDate": "Thu Sep 22 2022 00: 53: 10 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Raul.Macedo@hotmail.com"
+      }
+    },
+    {
+      "id": "88638ed8-5ec5-4f36-9759-5948aef9a0e4",
+      "customerName": "Caio Albuquerque",
+      "cpf": "492.667.593-50",
+      "birthDay": "Sat Jul 21 1990 12: 08: 58 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "736.33",
+      "createdDate": "Sat Mar 12 2022 00: 55: 53 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Lorraine22@gmail.com"
+      }
+    },
+    {
+      "id": "311ebe66-7309-4054-a588-b6c5602cb273",
+      "customerName": "Davi Lucca Costa",
+      "cpf": "236.429.443-61",
+      "birthDay": "Thu Mar 06 2003 14: 15: 05 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "929.05",
+      "createdDate": "Mon Oct 24 2022 06: 04: 18 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "MariaEduarda_Costa@hotmail.com"
+      }
+    },
+    {
+      "id": "fd285daf-542d-40dc-8fdf-b7515e607d50",
+      "customerName": "Rafaela Franco",
+      "cpf": "793.727.622-37",
+      "birthDay": "Sun Dec 15 1957 04: 09: 03 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "816.66",
+      "createdDate": "Tue Sep 06 2022 02: 56: 25 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Giovanna.Moreira@hotmail.com"
+      }
+    },
+    {
+      "id": "1041a45f-25ad-4947-ba47-a3b309d7b875",
+      "customerName": "Lucca Braga",
+      "cpf": "389.036.218-40",
+      "birthDay": "Wed Jul 15 1953 20: 13: 14 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "563.82",
+      "createdDate": "Sun Jun 26 2022 20: 50: 40 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Enzo_Albuquerque98@yahoo.com"
+      }
+    },
+    {
+      "id": "88257331-9b2f-47d8-8273-993593a46eef",
+      "customerName": "Pablo Batista",
+      "cpf": "889.364.531-90",
+      "birthDay": "Sun Mar 06 1983 07: 48: 16 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "991.54",
+      "createdDate": "Sat Aug 27 2022 12: 27: 44 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "DaviLucca_Nogueira@yahoo.com"
+      }
+    },
+    {
+      "id": "169cda82-18aa-44dc-b61f-d4e92c871316",
+      "customerName": "Emanuel Pereira",
+      "cpf": "694.256.905-45",
+      "birthDay": "Mon May 12 1969 22: 48: 24 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "907.88",
+      "createdDate": "Mon Aug 22 2022 19: 18: 57 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Lorraine32@hotmail.com"
+      }
+    },
+    {
+      "id": "1d7ae9e5-6435-43c1-93ba-9d4a84faa990",
+      "customerName": "Dalila Moreira",
+      "cpf": "884.750.289-69",
+      "birthDay": "Fri Oct 04 1985 21: 37: 30 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "966.28",
+      "createdDate": "Sat Sep 03 2022 19: 54: 34 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Clara75@live.com"
+      }
+    },
+    {
+      "id": "b46f31ee-7d03-4681-8398-fdb2e6b34c4b",
+      "customerName": "Ladislau Martins",
+      "cpf": "149.279.234-95",
+      "birthDay": "Tue Jul 07 1970 05: 52: 23 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "437.62",
+      "createdDate": "Tue Dec 13 2022 02: 18: 12 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "MariaEduarda97@yahoo.com"
+      }
+    },
+    {
+      "id": "30b0eee5-1bed-450f-a35d-15d729299030",
+      "customerName": "Carlos Martins",
+      "cpf": "110.370.431-11",
+      "birthDay": "Wed Jun 22 1983 13: 04: 35 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "838.48",
+      "createdDate": "Thu Jan 19 2023 15: 50: 09 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Mait_Moreira1@bol.com.br"
+      }
+    },
+    {
+      "id": "ade21848-0ba8-4c17-b713-78f8787d23ef",
+      "customerName": "João Lucas Albuquerque",
+      "cpf": "663.510.169-16",
+      "birthDay": "Tue Dec 01 1981 08: 05: 07 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "534.85",
+      "createdDate": "Sat Apr 30 2022 08: 55: 11 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Margara60@gmail.com"
+      }
+    },
+    {
+      "id": "67d8c1e0-438a-4977-bfb8-8574b30c8613",
+      "customerName": "Laura Moraes",
+      "cpf": "062.441.269-55",
+      "birthDay": "Fri Aug 14 1981 07: 51: 20 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "769.48",
+      "createdDate": "Wed Mar 30 2022 20: 13: 02 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Nicolas61@yahoo.com"
+      }
+    },
+    {
+      "id": "c71c251e-8c86-4dd7-8e0d-e16af7acfeaf",
+      "customerName": "Larissa Xavier",
+      "cpf": "183.656.650-69",
+      "birthDay": "Fri Jan 16 1987 20: 35: 19 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "387.72",
+      "createdDate": "Mon Jan 16 2023 15: 54: 57 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Bernardo61@hotmail.com"
+      }
+    },
+    {
+      "id": "4d8a55d0-5734-4fde-9932-67ba2094478b",
+      "customerName": "Janaína Barros",
+      "cpf": "100.276.497-17",
+      "birthDay": "Tue May 02 1978 11: 10: 42 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "376.67",
+      "createdDate": "Wed Apr 27 2022 09: 20: 49 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Samuel15@gmail.com"
+      }
+    },
+    {
+      "id": "ccb783dc-ccd4-409c-be0d-5ce048d5370d",
+      "customerName": "Maria Luiza Franco",
+      "cpf": "928.652.316-58",
+      "birthDay": "Sat Aug 21 1954 06: 50: 46 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "217.87",
+      "createdDate": "Mon Feb 27 2023 13: 41: 59 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Lucca85@bol.com.br"
+      }
+    },
+    {
+      "id": "2de0792f-2a17-43af-8546-f784316c6d29",
+      "customerName": "Paula Reis",
+      "cpf": "728.466.593-97",
+      "birthDay": "Mon Mar 10 1980 04: 18: 01 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "394.83",
+      "createdDate": "Thu Aug 11 2022 07: 10: 02 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Caio_Xavier43@live.com"
+      }
+    },
+    {
+      "id": "2f4713e1-25e8-48cf-953a-60c2fa6efd27",
+      "customerName": "Calebe Reis",
+      "cpf": "085.172.084-63",
+      "birthDay": "Sat Feb 28 1970 04: 57: 56 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "515.90",
+      "createdDate": "Wed Oct 26 2022 09: 54: 37 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Gabriel_Saraiva34@hotmail.com"
+      }
+    },
+    {
+      "id": "bab3d2ce-af7d-40dc-b851-eea3a3f19434",
+      "customerName": "Cauã Melo",
+      "cpf": "850.656.648-70",
+      "birthDay": "Tue Sep 09 1986 01: 03: 03 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "346.83",
+      "createdDate": "Sun May 29 2022 20: 56: 31 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Isadora_Moreira6@live.com"
+      }
+    },
+    {
+      "id": "547c96ec-d2a6-4e4c-87dd-508b8f9f2de9",
+      "customerName": "Roberta Moraes",
+      "cpf": "146.568.719-07",
+      "birthDay": "Mon Jun 13 1949 10: 08: 23 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "530.06",
+      "createdDate": "Sat Apr 09 2022 18: 50: 36 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Isabella.Barros29@bol.com.br"
+      }
+    },
+    {
+      "id": "b6448cd4-9846-4f41-be46-517d7521ac7b",
+      "customerName": "Frederico Santos",
+      "cpf": "067.506.950-51",
+      "birthDay": "Sun Dec 21 1975 16: 06: 25 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "13.76",
+      "createdDate": "Mon Feb 06 2023 14: 39: 31 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Matheus_Batista94@yahoo.com"
+      }
+    },
+    {
+      "id": "6c8f5677-9d1b-4b4b-a992-3d0b5b4347cb",
+      "customerName": "Marcela Reis",
+      "cpf": "441.045.178-28",
+      "birthDay": "Tue Jun 25 1963 18: 21: 32 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "654.23",
+      "createdDate": "Fri Sep 02 2022 14: 02: 01 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Isaac.Batista@yahoo.com"
+      }
+    },
+    {
+      "id": "7688bdac-17e9-4591-bc1b-49dcabcd06d7",
+      "customerName": "Yasmin Santos",
+      "cpf": "072.637.021-50",
+      "birthDay": "Thu Dec 26 1946 18: 06: 12 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "453.35",
+      "createdDate": "Wed Dec 14 2022 22: 19: 40 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Antnio.Macedo@hotmail.com"
+      }
+    },
+    {
+      "id": "f0070f01-e574-489d-8d95-372a521ada7a",
+      "customerName": "Gúbio Albuquerque",
+      "cpf": "873.781.816-33",
+      "birthDay": "Mon Aug 09 1948 08: 49: 22 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "300.91",
+      "createdDate": "Wed Apr 20 2022 01: 15: 07 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Marcelo_Nogueira@gmail.com"
+      }
+    },
+    {
+      "id": "94d4475c-7609-4356-9996-833edf88d4c7",
+      "customerName": "Laura Carvalho",
+      "cpf": "630.884.865-43",
+      "birthDay": "Sat Jul 16 1966 04: 12: 33 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "433.03",
+      "createdDate": "Wed Aug 31 2022 22: 17: 01 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Sophia42@hotmail.com"
+      }
+    },
+    {
+      "id": "de3a9786-db75-4a6f-a5bd-ed69e881cb8b",
+      "customerName": "Sirineu Barros",
+      "cpf": "502.141.874-20",
+      "birthDay": "Sun Nov 14 1965 10: 08: 09 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "885.19",
+      "createdDate": "Fri Sep 16 2022 23: 45: 13 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Norberto_Franco82@hotmail.com"
+      }
+    },
+    {
+      "id": "97c5c9f7-d6f8-4004-bd74-8c9751adf727",
+      "customerName": "Kléber Oliveira",
+      "cpf": "441.805.873-78",
+      "birthDay": "Wed Dec 22 1943 09: 33: 23 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "625.20",
+      "createdDate": "Sun Sep 18 2022 06: 18: 49 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Tho.Moraes7@hotmail.com"
+      }
+    },
+    {
+      "id": "53d13f06-3ae0-431e-9cdd-e33e2d31f21d",
+      "customerName": "Fabrício Reis",
+      "cpf": "963.212.622-00",
+      "birthDay": "Sun Jan 20 1957 19: 15: 26 GMT-0300 (Horário de Verão de Brasília)",
+      "monthlyFinance": "545.20",
+      "createdDate": "Sun May 01 2022 06: 32: 33 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Antnio24@bol.com.br"
+      }
+    },
+    {
+      "id": "4bac5fb2-fd15-4dc5-9907-96a082d43c42",
+      "customerName": "Márcia Silva",
+      "cpf": "903.587.242-87",
+      "birthDay": "Mon Sep 01 1980 12: 31: 23 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "984.04",
+      "createdDate": "Sun Mar 20 2022 10: 46: 51 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Silas_Moreira@hotmail.com"
+      }
+    },
+    {
+      "id": "1177e521-605d-4497-a134-dfb431ebac8e",
+      "customerName": "Felícia Nogueira",
+      "cpf": "711.824.738-30",
+      "birthDay": "Thu May 26 1988 12: 36: 52 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "487.65",
+      "createdDate": "Sat Dec 03 2022 13: 39: 40 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Alcia_Braga@hotmail.com"
+      }
+    },
+    {
+      "id": "7ed68c51-2e86-46ff-a833-ddb02a642774",
+      "customerName": "Pedro Carvalho",
+      "cpf": "564.232.087-43",
+      "birthDay": "Wed Nov 14 1956 19: 52: 29 GMT-0300 (Horário de Verão de Brasília)",
+      "monthlyFinance": "557.26",
+      "createdDate": "Fri Dec 16 2022 01: 42: 35 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Fabrcio.Melo@yahoo.com"
+      }
+    },
+    {
+      "id": "15756583-3367-47eb-a2bb-f0cc8a3d4b2d",
+      "customerName": "Samuel Moraes",
+      "cpf": "645.684.066-09",
+      "birthDay": "Fri Apr 22 1955 05: 40: 07 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "620.91",
+      "createdDate": "Thu Aug 04 2022 23: 25: 01 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Yago33@bol.com.br"
+      }
+    },
+    {
+      "id": "1d316fa9-ad70-4f28-bbe2-5d23cf6d9274",
+      "customerName": "Fabiano Martins",
+      "cpf": "281.927.895-78",
+      "birthDay": "Fri Jun 18 1943 23: 08: 05 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "553.56",
+      "createdDate": "Thu Jul 28 2022 10: 08: 51 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Sara.Albuquerque@gmail.com"
+      }
+    },
+    {
+      "id": "8d4ae1d0-34a5-4d14-8a9f-09fc1e36070d",
+      "customerName": "Isabella Albuquerque",
+      "cpf": "111.144.915-51",
+      "birthDay": "Sun Aug 31 1947 09: 45: 10 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "922.34",
+      "createdDate": "Sun Mar 27 2022 07: 19: 45 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Nataniel90@hotmail.com"
+      }
+    },
+    {
+      "id": "7ce055f4-4f57-4591-b84e-66ed6388ed3b",
+      "customerName": "Esther Braga",
+      "cpf": "583.914.853-90",
+      "birthDay": "Sun Jan 22 1989 02: 01: 26 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "59.72",
+      "createdDate": "Sat May 07 2022 08: 06: 11 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Washington.Oliveira@yahoo.com"
+      }
+    },
+    {
+      "id": "97432159-4b2a-43aa-9483-883fa3a129ab",
+      "customerName": "Carla Martins",
+      "cpf": "854.020.993-40",
+      "birthDay": "Sun Dec 18 1960 03: 24: 51 GMT-0300 (Horário de Verão de Brasília)",
+      "monthlyFinance": "888.69",
+      "createdDate": "Mon Apr 11 2022 07: 59: 41 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Helosa73@yahoo.com"
+      }
+    },
+    {
+      "id": "a404e24e-9203-4008-96be-8c2a563b45d6",
+      "customerName": "Sílvia Santos",
+      "cpf": "719.196.406-57",
+      "birthDay": "Tue Aug 07 2001 12: 08: 32 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "476.21",
+      "createdDate": "Sun Jul 10 2022 16: 23: 28 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Fabrcia47@hotmail.com"
+      }
+    },
+    {
+      "id": "3a40b691-eb06-4e54-80ed-ce929497f935",
+      "customerName": "Ana Júlia Silva",
+      "cpf": "101.961.992-98",
+      "birthDay": "Thu Aug 24 1972 18: 48: 02 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "175.86",
+      "createdDate": "Mon Jan 30 2023 01: 44: 21 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Helosa_Santos88@bol.com.br"
+      }
+    },
+    {
+      "id": "71bf8d6a-034f-4c69-906a-06275e700ade",
+      "customerName": "Natália Barros",
+      "cpf": "165.012.841-04",
+      "birthDay": "Fri Dec 28 2001 07: 51: 12 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "757.50",
+      "createdDate": "Sat Apr 16 2022 04: 31: 03 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Frederico.Santos@hotmail.com"
+      }
+    },
+    {
+      "id": "5bf0fb38-1500-48fb-90d7-00dfe80ffe39",
+      "customerName": "Enzo Barros",
+      "cpf": "478.459.137-07",
+      "birthDay": "Tue May 29 1945 16: 13: 06 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "595.30",
+      "createdDate": "Mon Sep 26 2022 05: 35: 51 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Alcia_Batista@bol.com.br"
+      }
+    },
+    {
+      "id": "a19f059e-8140-4d05-882e-8994e234f24a",
+      "customerName": "Roberto Nogueira",
+      "cpf": "866.495.829-72",
+      "birthDay": "Mon Aug 30 1954 16: 04: 23 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "741.91",
+      "createdDate": "Sun Feb 26 2023 20: 49: 51 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Vctor_Batista@live.com"
+      }
+    },
+    {
+      "id": "0dcd567a-0b75-470e-a9c3-953715cf2e4e",
+      "customerName": "Fabiano Nogueira",
+      "cpf": "920.468.950-10",
+      "birthDay": "Fri Sep 05 1952 22: 48: 31 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "268.95",
+      "createdDate": "Thu Oct 20 2022 22: 29: 21 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Ceclia_Moreira18@bol.com.br"
+      }
+    },
+    {
+      "id": "5a6eb557-173d-4bc6-8c59-baec2f43be28",
+      "customerName": "Rebeca Pereira",
+      "cpf": "026.202.650-37",
+      "birthDay": "Mon Jan 19 1948 16: 37: 27 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "565.90",
+      "createdDate": "Fri Jul 29 2022 06: 33: 40 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Margara41@bol.com.br"
+      }
+    },
+    {
+      "id": "15af8b52-4d74-4be3-89bd-309ade15d0a6",
+      "customerName": "Lorena Pereira",
+      "cpf": "115.779.915-91",
+      "birthDay": "Fri Feb 22 1985 14: 19: 31 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "488.16",
+      "createdDate": "Mon Dec 12 2022 23: 58: 15 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Lorenzo_Costa@bol.com.br"
+      }
+    },
+    {
+      "id": "9d5d5c49-d97e-4851-869c-aa5834ce7323",
+      "customerName": "Larissa Pereira",
+      "cpf": "616.441.801-11",
+      "birthDay": "Sun Apr 09 2000 09: 07: 17 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "469.35",
+      "createdDate": "Tue Aug 23 2022 22: 29: 37 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Mrcia_Xavier84@yahoo.com"
+      }
+    },
+    {
+      "id": "e6ed57c2-b14a-4c48-8680-ebf459a2eb9e",
+      "customerName": "Maria Alice Braga",
+      "cpf": "747.327.598-40",
+      "birthDay": "Wed Jun 04 1980 10: 31: 46 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "23.04",
+      "createdDate": "Mon Dec 05 2022 05: 58: 30 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Fabiano92@yahoo.com"
+      }
+    },
+    {
+      "id": "2a60cddf-b701-4eb1-85a2-238158291c10",
+      "customerName": "Júlio Franco",
+      "cpf": "597.819.876-42",
+      "birthDay": "Sun Sep 05 1982 11: 24: 42 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "991.14",
+      "createdDate": "Sun Dec 11 2022 08: 58: 39 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Ceclia60@bol.com.br"
+      }
+    },
+    {
+      "id": "ef9a6a47-a968-499d-b319-851ccb058bbb",
+      "customerName": "Alice Silva",
+      "cpf": "676.903.161-23",
+      "birthDay": "Thu Jun 02 1949 02: 21: 13 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "976.34",
+      "createdDate": "Mon Oct 24 2022 07: 51: 11 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Lavnia.Silva@yahoo.com"
+      }
+    },
+    {
+      "id": "4f9e7b74-ed5f-4e1c-868a-fb0fa81daeb0",
+      "customerName": "Melissa Barros",
+      "cpf": "305.477.388-46",
+      "birthDay": "Mon May 11 1959 13: 08: 18 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "315.22",
+      "createdDate": "Wed Nov 30 2022 13: 59: 03 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Isaac.Carvalho87@gmail.com"
+      }
+    },
+    {
+      "id": "7007a19e-d9be-4182-b6e3-02388ee80d4b",
+      "customerName": "Paulo Franco",
+      "cpf": "643.728.016-61",
+      "birthDay": "Sat Jun 08 1985 04: 29: 14 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "769.89",
+      "createdDate": "Sun Nov 13 2022 03: 20: 03 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Elisa32@yahoo.com"
+      }
+    },
+    {
+      "id": "9322cc86-7063-4491-bf6e-2233b573fdcb",
+      "customerName": "Daniel Santos",
+      "cpf": "354.052.272-77",
+      "birthDay": "Wed May 17 2000 17: 20: 16 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "530.43",
+      "createdDate": "Mon Oct 03 2022 20: 41: 04 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Isabela.Braga7@bol.com.br"
+      }
+    },
+    {
+      "id": "bc1518e5-7fbb-4709-95c9-8b7022fab0b9",
+      "customerName": "Isabel Silva",
+      "cpf": "141.015.169-79",
+      "birthDay": "Sun Jan 18 1987 17: 30: 46 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "50.18",
+      "createdDate": "Sat Aug 13 2022 13: 33: 58 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Ladislau91@bol.com.br"
+      }
+    },
+    {
+      "id": "7a820fc5-7748-4fae-a540-c73c675f04d6",
+      "customerName": "Noah Pereira",
+      "cpf": "046.342.783-16",
+      "birthDay": "Sun Feb 04 1951 14: 23: 20 GMT-0200 (Horário Padrão de Brasília)",
+      "monthlyFinance": "704.04",
+      "createdDate": "Thu Jun 23 2022 19: 14: 59 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Leonardo.Souza@gmail.com"
+      }
+    },
+    {
+      "id": "f6e7f364-e969-4a7f-aabb-ca31813e0d1a",
+      "customerName": "João Lucas Santos",
+      "cpf": "624.471.345-17",
+      "birthDay": "Sun Jun 20 1999 09: 47: 12 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "379.29",
+      "createdDate": "Wed Feb 15 2023 01: 18: 49 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Sirineu.Reis25@yahoo.com"
+      }
+    },
+    {
+      "id": "c3aea559-9f4a-4fe3-8291-1482626f19ce",
+      "customerName": "Clara Moreira",
+      "cpf": "353.438.904-23",
+      "birthDay": "Tue May 22 1945 20: 05: 56 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "31.39",
+      "createdDate": "Sat Sep 03 2022 23: 11: 09 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Matheus0@bol.com.br"
+      }
+    },
+    {
+      "id": "d20c55e5-273e-4c97-82cc-02b2f2781ca0",
+      "customerName": "Júlio César Silva",
+      "cpf": "794.503.110-21",
+      "birthDay": "Thu Mar 31 1977 02: 10: 29 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "906.45",
+      "createdDate": "Fri Feb 03 2023 06: 08: 11 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Nbia.Franco@bol.com.br"
+      }
+    },
+    {
+      "id": "eaeac8cf-1881-475d-88de-79284bcb8d99",
+      "customerName": "Mariana Xavier",
+      "cpf": "312.394.549-96",
+      "birthDay": "Sun Oct 24 2004 20: 59: 44 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "309.23",
+      "createdDate": "Tue Sep 20 2022 07: 16: 03 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Manuela_Batista73@live.com"
+      }
+    },
+    {
+      "id": "d0ee7ccf-c5e0-4007-9a30-1be6f916472e",
+      "customerName": "Enzo Gabriel Nogueira",
+      "cpf": "015.488.478-28",
+      "birthDay": "Mon Dec 18 1978 11: 28: 32 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "681.51",
+      "createdDate": "Thu Nov 17 2022 03: 16: 07 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "JooMiguel.Albuquerque66@live.com"
+      }
+    },
+    {
+      "id": "1c6cf0bf-5691-4eac-ac4f-1534807c3b23",
+      "customerName": "Isaac Moraes",
+      "cpf": "108.436.085-36",
+      "birthDay": "Wed Jul 17 1996 05: 41: 27 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "690.42",
+      "createdDate": "Fri Apr 15 2022 08: 47: 43 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "MariaCeclia.Carvalho6@gmail.com"
+      }
+    },
+    {
+      "id": "22413c4b-e656-45fe-8824-e043d0a26a33",
+      "customerName": "Warley Silva",
+      "cpf": "711.833.530-49",
+      "birthDay": "Tue Jun 08 1954 09: 15: 10 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "440.93",
+      "createdDate": "Sat Apr 30 2022 09: 15: 32 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Davi70@hotmail.com"
+      }
+    },
+    {
+      "id": "14851c77-b7ac-4acf-87c1-75a73794e0f7",
+      "customerName": "Matheus Silva",
+      "cpf": "142.943.721-92",
+      "birthDay": "Fri May 14 1943 00: 38: 56 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "218.21",
+      "createdDate": "Wed Sep 21 2022 01: 36: 59 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Daniel.Costa@hotmail.com"
+      }
+    },
+    {
+      "id": "98a28ccc-c156-436c-8402-5ed383d8e33d",
+      "customerName": "Alice Nogueira",
+      "cpf": "698.891.305-05",
+      "birthDay": "Wed Dec 29 1982 07: 59: 48 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "868.90",
+      "createdDate": "Tue Sep 06 2022 22: 04: 17 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Csar60@yahoo.com"
+      }
+    },
+    {
+      "id": "5eaf332c-4228-497d-80eb-443c380166be",
+      "customerName": "Lorena Reis",
+      "cpf": "023.747.012-80",
+      "birthDay": "Mon Apr 16 1951 04: 36: 32 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "388.23",
+      "createdDate": "Tue Jan 03 2023 07: 06: 32 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Ceclia45@yahoo.com"
+      }
+    },
+    {
+      "id": "6c474efa-3200-4908-b233-da56fa7662f7",
+      "customerName": "Daniel Batista",
+      "cpf": "800.248.506-83",
+      "birthDay": "Sat Mar 27 2004 19: 20: 16 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "355.25",
+      "createdDate": "Fri Jul 15 2022 12: 24: 38 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Gbio_Oliveira@hotmail.com"
+      }
+    },
+    {
+      "id": "d51b7fd0-59ac-4abd-b07f-7e47e01811c4",
+      "customerName": "Heloísa Braga",
+      "cpf": "186.707.309-95",
+      "birthDay": "Mon Apr 14 1986 21: 21: 20 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "26.71",
+      "createdDate": "Sun Feb 05 2023 05: 06: 20 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Alexandre_Batista80@live.com"
+      }
+    },
+    {
+      "id": "36b799e1-67a2-4839-b7b1-c75a8ba79c99",
+      "customerName": "Emanuel Santos",
+      "cpf": "073.399.131-90",
+      "birthDay": "Thu Nov 20 1980 19: 24: 59 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "540.00",
+      "createdDate": "Wed Sep 07 2022 01: 13: 40 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Gbio.Barros@hotmail.com"
+      }
+    },
+    {
+      "id": "364f1e94-c763-49d3-9e00-6c509bd8beec",
+      "customerName": "Alice Santos",
+      "cpf": "521.526.945-97",
+      "birthDay": "Mon Nov 18 1985 12: 29: 31 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "132.77",
+      "createdDate": "Thu Dec 29 2022 06: 34: 26 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Isadora_Barros81@bol.com.br"
+      }
+    },
+    {
+      "id": "bb84416d-b150-4cf0-bc50-e25d2c31b25f",
+      "customerName": "Víctor Albuquerque",
+      "cpf": "918.480.423-88",
+      "birthDay": "Fri Sep 20 1968 19: 29: 46 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "918.64",
+      "createdDate": "Fri Apr 15 2022 23: 04: 57 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Vicente_Macedo7@yahoo.com"
+      }
+    },
+    {
+      "id": "00dce6dd-1839-4f6e-b908-b7d5b394d9c5",
+      "customerName": "Gúbio Costa",
+      "cpf": "158.054.831-81",
+      "birthDay": "Sat May 20 1961 20: 05: 55 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "178.94",
+      "createdDate": "Tue Dec 27 2022 04: 29: 08 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Clara44@gmail.com"
+      }
+    },
+    {
+      "id": "df305020-5bb4-4f98-8775-86858979f747",
+      "customerName": "Meire Oliveira",
+      "cpf": "390.240.818-90",
+      "birthDay": "Thu Jan 04 2001 01: 42: 56 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "56.98",
+      "createdDate": "Tue Apr 19 2022 05: 10: 05 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Jlia38@live.com"
+      }
+    },
+    {
+      "id": "0892fbdb-9c3b-4663-a49d-eb0bee7bf068",
+      "customerName": "Cecília Silva",
+      "cpf": "460.380.208-02",
+      "birthDay": "Sat Jun 14 1947 04: 38: 43 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "861.78",
+      "createdDate": "Tue Jun 07 2022 23: 24: 17 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Elisa_Macedo43@bol.com.br"
+      }
+    },
+    {
+      "id": "27f81a5c-ca7c-4cb1-9640-1380dd6f980c",
+      "customerName": "Isaac Souza",
+      "cpf": "923.803.824-41",
+      "birthDay": "Thu Jan 06 1966 00: 08: 34 GMT-0200 (Horário de Verão de Brasília)",
+      "monthlyFinance": "500.32",
+      "createdDate": "Fri Jan 20 2023 00: 43: 07 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Sarah_Reis57@bol.com.br"
+      }
+    },
+    {
+      "id": "fc1e2132-e4da-460c-835d-1c85b2ce52a3",
+      "customerName": "Natália Xavier",
+      "cpf": "563.065.018-19",
+      "birthDay": "Fri Sep 05 1952 01: 43: 29 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "577.81",
+      "createdDate": "Fri May 27 2022 22: 56: 44 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "JlioCsar_Batista55@bol.com.br"
+      }
+    },
+    {
+      "id": "56f5a279-6022-4988-a488-653f104f6d7d",
+      "customerName": "Esther Reis",
+      "cpf": "953.506.767-25",
+      "birthDay": "Sat Oct 10 1953 16: 18: 47 GMT-0300 (Horário Padrão de Brasília)",
+      "monthlyFinance": "521.11",
+      "createdDate": "Mon May 30 2022 06: 26: 07 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": { "email": "Ricardo.Macedo71@live.com"
+      }
+    }
+  ]
+}
