@@ -7,6 +7,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { CustomerRegisterComponent } from './pages/customer-register/customer-register.component';
 import { CustomerConsultComponent } from './pages/customer-consult/customer-consult.component';
 import { CustomerEditionModalComponent } from './components/customer-edition-modal/customer-edition-modal.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { CustomerEditionModalComponent } from './components/customer-edition-mod
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    BrowserAnimationsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
