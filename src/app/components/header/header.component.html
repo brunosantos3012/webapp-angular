@@ -1,1 +1,10 @@
-<p>header works!</p>
+<mat-toolbar class="header mat-elevation-z4">
+  <button mat-icon-button class="example-icon" [matMenuTriggerFor]="menu">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <mat-menu #menu="matMenu">
+    <button (click)="navigateMenu('register')" mat-menu-item>Cadastro</button>
+    <button (click)="navigateMenu('consult')" mat-menu-item>Consulta clientes</button>
+  </mat-menu>
+  <span>WEBAPP-ANGULAR</span>
+</mat-toolbar>

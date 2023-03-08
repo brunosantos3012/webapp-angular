@@ -1,1 +1,66 @@
-<p>customer-register works!</p>
+<div class="container">
+  <form class="example-form" [formGroup]="formRegister">
+
+    <p>
+      <mat-form-field class="example-full-width">
+        <mat-label>Primeiro nome</mat-label>
+        <input matInput formControlName="firstName">
+        <mat-error *ngIf="formRegister.controls['firstName'].hasError('required')">
+          Obrigatório!
+        </mat-error>
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+        <mat-label>Último nome</mat-label>
+        <input matInput formControlName="lastName">
+        <mat-error *ngIf="formRegister.controls['lastName'].hasError('required')">
+          Obrigatório!
+        </mat-error>
+      </mat-form-field>
+    </p>
+
+    <p>
+      <mat-form-field class="example-full-width">
+        <mat-label>CPF</mat-label>
+        <input matInput formControlName="cpf">
+        <mat-error *ngIf="formRegister.controls['cpf'].hasError('required')">
+          Obrigatório!
+        </mat-error>
+        <mat-error *ngIf="formRegister.controls['cpf'].hasError('minLength') || formRegister.controls['cpf'].hasError('maxLength')">
+          Por favor, insira um CPF válido!
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Data de nascimento</mat-label>
+        <input matInput type="date" formControlName="birthDay">
+        <mat-error *ngIf="formRegister.controls['birthDay'].hasError('required')">
+          Obrigatório!
+        </mat-error>
+      </mat-form-field>
+    </p>
+
+    <p>
+      <mat-form-field class="example-full-width">
+        <mat-label>Renda mensal</mat-label>
+        <input matInput formControlName="monthlyFinance">
+        <mat-error *ngIf="formRegister.controls['monthlyFinance'].hasError('required')">
+          Obrigatório!
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>E-mail</mat-label>
+        <input matInput formControlName="email" required>
+        <mat-error *ngIf="formRegister.controls['email'].hasError('email') && !formRegister.controls['email'].hasError('required')">
+          Por favor, insira um e-mail válido!
+        </mat-error>
+        <mat-error *ngIf="formRegister.controls['email'].hasError('required')">
+          Obrigatório!
+        </mat-error>
+      </mat-form-field>
+    </p>
+    <div class="button">
+      <button (click)="onSubmitForm()" [disabled]="!this.formRegister.valid" mat-raised-button color="primary">Cadastrar</button>
+    </div>
+  </form>
+</div>
