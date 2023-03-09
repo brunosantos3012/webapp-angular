@@ -21,7 +21,7 @@
     <p>
       <mat-form-field class="example-full-width">
         <mat-label>CPF</mat-label>
-        <input matInput formControlName="cpf">
+        <input matInput mask="000.000.000-00" formControlName="cpf">
         <mat-error *ngIf="formRegister.controls['cpf'].hasError('required')">
           Obrigatório!
         </mat-error>
@@ -36,13 +36,16 @@
         <mat-error *ngIf="formRegister.controls['birthDay'].hasError('required')">
           Obrigatório!
         </mat-error>
+        <mat-error *ngIf="formRegister.controls['birthDay'].hasError('data')">
+          Obrigatório ter no minimo 18 anos e menos de 60.
+        </mat-error>
       </mat-form-field>
     </p>
 
     <p>
       <mat-form-field class="example-full-width">
         <mat-label>Renda mensal</mat-label>
-        <input matInput formControlName="monthlyFinance">
+        <input type="text" matInput mask="separator" thousandSeparator="." formControlName="monthlyFinance">
         <mat-error *ngIf="formRegister.controls['monthlyFinance'].hasError('required')">
           Obrigatório!
         </mat-error>

@@ -1,39 +1,6 @@
 {
   "customer": [
     {
-      "id": "f6f3660e-4a31-4408-92a5-3c40e6113bcf",
-      "customerName": "Marcelo Nogueira",
-      "cpf": "393.996.622-33",
-      "birthDay": "Tue Jun 29 1954 07: 38: 31 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "992.82",
-      "createdDate": "Sat Feb 04 2023 19: 13: 20 GMT-0300 (Horário Padrão de Brasília)",
-      "contact": {
-        "email": "Antnio_Martins@hotmail.com"
-      }
-    },
-    {
-      "id": "16d22c62-577b-4b4f-abf1-54f2a89986b4",
-      "customerName": "Alessandro Albuquerque",
-      "cpf": "232.877.308-78",
-      "birthDay": "Mon Jun 02 1980 08: 49: 07 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "510.61",
-      "createdDate": "Tue Mar 29 2022 11: 36: 20 GMT-0300 (Horário Padrão de Brasília)",
-      "contact": {
-        "email": "MariaJlia_Franco33@bol.com.br"
-      }
-    },
-    {
-      "id": "c98948b4-4a7d-4379-9fc3-2af3c52e42a4",
-      "customerName": "Caio Souza",
-      "cpf": "313.888.426-10",
-      "birthDay": "Tue May 25 1943 14: 51: 32 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "653.00",
-      "createdDate": "Sat May 21 2022 02: 39: 18 GMT-0300 (Horário Padrão de Brasília)",
-      "contact": {
-        "email": "Liz_Batista28@hotmail.com"
-      }
-    },
-    {
       "id": "57c54012-6cca-4af7-86e9-139460f13b62",
       "customerName": "Sara Albuquerque",
       "cpf": "214.875.871-39",
@@ -75,28 +42,6 @@
       "createdDate": "Sat Nov 05 2022 22: 58: 07 GMT-0300 (Horário Padrão de Brasília)",
       "contact": {
         "email": "AnaLaura21@bol.com.br"
-      }
-    },
-    {
-      "id": "fb2f0c1d-2320-4c25-9e33-58563a0915e8",
-      "customerName": "Maitê Batista",
-      "cpf": "845.046.454-40",
-      "birthDay": "Sun May 16 1954 08: 24: 05 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "818.09",
-      "createdDate": "Wed Oct 19 2022 09: 30: 13 GMT-0300 (Horário Padrão de Brasília)",
-      "contact": {
-        "email": "MariaAlice_Oliveira@gmail.com"
-      }
-    },
-    {
-      "id": "159bb189-3a88-427d-92a0-9533650693b2",
-      "customerName": "Valentina Santos",
-      "cpf": "176.091.789-34",
-      "birthDay": "Fri Sep 21 1973 00: 11: 40 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "148.77",
-      "createdDate": "Sat Mar 12 2022 14: 46: 10 GMT-0300 (Horário Padrão de Brasília)",
-      "contact": {
-        "email": "Nbia80@live.com"
       }
     },
     {
@@ -1352,6 +1297,17 @@
         "email": "bruno@g"
       },
       "id": "4F5j9Y-"
+    },
+    {
+      "customerName": "bruno santos",
+      "cpf": "857380.770",
+      "birthDay": "1996-08-07",
+      "monthlyFinance": "120.000,00",
+      "createdDate": "Wed Mar 08 2023 22:26:36 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": {
+        "email": "bruno@gmail"
+      },
+      "id": "SY-m5kA"
     }
   ]
 }

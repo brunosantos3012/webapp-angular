@@ -1,6 +1,7 @@
 import { CustomerRegisterService } from './service/customer-register.service';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, Validators, FormGroup } from '@angular/forms';
+import { birthDayValidator } from 'src/app/shared/validators/birthDayValidator';
 
 @Component({
   selector: 'app-customer-register',
@@ -24,8 +25,8 @@ export class CustomerRegisterComponent implements OnInit {
     this.formRegister = this.formBuilder.group({
       firstName: ['', [Validators.required]],
       lastName: ['', [Validators.required]],
-      cpf: ['', [Validators.required, Validators.minLength(11), Validators.maxLength(11)]],
-      birthDay: ['', [Validators.required]],
+      cpf: ['', [Validators.required, Validators.minLength(14), Validators.maxLength(14)]],
+      birthDay: ['', [Validators.required, birthDayValidator]],
       monthlyFinance: ['', [Validators.required]],
       email: ['', [Validators.required, Validators.email]],
     })

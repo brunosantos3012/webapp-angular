@@ -1,1 +1,49 @@
-<p>customer-consult works!</p>
+<p>
+  <mat-paginator [length]="100"
+              [pageSize]="10"
+              [pageSizeOptions]="[5, 10, 25, 100]"
+              (page)="handlePageEvent($event)"
+              aria-label="Select page">
+</mat-paginator>
+</p>
+<div class="container">
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+    <ng-container matColumnDef="customerName">
+      <th mat-header-cell *matHeaderCellDef> Nome cliente </th>
+      <td mat-cell *matCellDef="let customer"> {{customer.customerName}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="cpf">
+      <th mat-header-cell *matHeaderCellDef> CPF </th>
+      <td mat-cell *matCellDef="let customer"> {{customer.cpf}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="createdDate">
+      <th mat-header-cell *matHeaderCellDef> Data cadastro </th>
+      <td mat-cell *matCellDef="let customer"> {{ customer.createdDate | date: 'dd/MM/yyyy' }} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="monthlyFinance">
+      <th mat-header-cell *matHeaderCellDef> Renda mensal </th>
+      <td mat-cell *matCellDef="let customer"> {{ 'R$ ' + customer.monthlyFinance }} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="action">
+      <th mat-header-cell *matHeaderCellDef></th>
+      <td mat-cell *matCellDef="let customer">
+        <div>
+          <button (click)="editCustomer(customer)">
+            <mat-icon>edit</mat-icon>
+          </button>
+          <button (click)="deleteCustomer(customer.id)">
+            <mat-icon>delete</mat-icon>
+          </button>
+        </div>
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+
+</div>

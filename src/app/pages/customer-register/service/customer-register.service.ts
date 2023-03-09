@@ -1,5 +1,5 @@
-import { ContactModel } from './../model/contact.model';
-import { CustomerRegisterModel } from './../model/customer-register.model';
+import { ContactModel } from '../../../shared/model/contact.model';
+import { CustomerRegisterModel } from '../../../shared/model/customer-register.model';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { Builder } from 'builder-pattern';
