@@ -1,1 +1,74 @@
-<p>customer-edition-modal works!</p>
+<h2 mat-dialog-title>Edição cadastro</h2>
+<mat-dialog-content align="center" class="mat-typography">
+  <div class="container">
+    <form class="example-form" [formGroup]="formRegister">
+
+      <p>
+        <mat-form-field class="example-full-width">
+          <mat-label>Primeiro nome</mat-label>
+          <input matInput formControlName="firstName">
+          <mat-error *ngIf="formRegister.controls['firstName'].hasError('required')">
+            Obrigatório!
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="example-full-width">
+          <mat-label>Último nome</mat-label>
+          <input matInput formControlName="lastName">
+          <mat-error *ngIf="formRegister.controls['lastName'].hasError('required')">
+            Obrigatório!
+          </mat-error>
+        </mat-form-field>
+      </p>
+
+      <p>
+        <mat-form-field class="example-full-width">
+          <mat-label>CPF</mat-label>
+          <input matInput mask="000.000.000-00" formControlName="cpf">
+          <mat-error *ngIf="formRegister.controls['cpf'].hasError('required')">
+            Obrigatório!
+          </mat-error>
+          <mat-error *ngIf="formRegister.controls['cpf'].hasError('minLength') || formRegister.controls['cpf'].hasError('maxLength')">
+            Por favor, insira um CPF válido!
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="example-full-width">
+          <mat-label>Data de nascimento</mat-label>
+          <input matInput mask="00/00/0000" formControlName="birthDay">
+          <mat-error *ngIf="formRegister.controls['birthDay'].hasError('required')">
+            Obrigatório!
+          </mat-error>
+          <mat-error *ngIf="formRegister.controls['birthDay'].hasError('data') && !formRegister.controls['birthDay'].hasError('required')">
+            Obrigatório ter no minimo 18 anos e menos de 60.
+          </mat-error>
+        </mat-form-field>
+      </p>
+
+      <p>
+        <mat-form-field class="example-full-width">
+          <mat-label>Renda mensal</mat-label>
+          <input type="text" matInput mask="separator" thousandSeparator="." formControlName="monthlyFinance">
+          <mat-error *ngIf="formRegister.controls['monthlyFinance'].hasError('required')">
+            Obrigatório!
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="example-full-width">
+          <mat-label>E-mail</mat-label>
+          <input matInput formControlName="email" required>
+          <mat-error *ngIf="formRegister.controls['email'].hasError('email') && !formRegister.controls['email'].hasError('required')">
+            Por favor, insira um e-mail válido!
+          </mat-error>
+          <mat-error *ngIf="formRegister.controls['email'].hasError('required')">
+            Obrigatório!
+          </mat-error>
+        </mat-form-field>
+      </p>
+    </form>
+  </div>
+
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button (click)="close()">Cancelar</button>
+  <button mat-button [mat-dialog-close]="onClosed(customer.id, formRegister.getRawValue())" color="primary" >Editar</button>
+</mat-dialog-actions>

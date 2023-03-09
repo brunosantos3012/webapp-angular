@@ -17,6 +17,7 @@ import { MatInputModule } from '@angular/material/input';
 import { ReactiveFormsModule } from '@angular/forms';
 import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
+import { MatDialogModule } from '@angular/material/dialog';
 import { NgxMaskModule } from 'ngx-mask';
 
 @NgModule({
@@ -40,6 +41,7 @@ import { NgxMaskModule } from 'ngx-mask';
     MatInputModule,
     MatTableModule,
     MatPaginatorModule,
+    MatDialogModule,
     NgxMaskModule.forRoot({
       dropSpecialCharacters: false
     }),

@@ -1,6 +1,8 @@
+import { CustomerEditionModalComponent } from './../../components/customer-edition-modal/customer-edition-modal.component';
 import { CustomerConsultService } from './service/customer-consult.service';
 import { Component, OnInit } from '@angular/core';
 import { MatTableDataSource } from '@angular/material/table';
+import { MatDialog } from '@angular/material/dialog';
 
 @Component({
   selector: 'app-customer-consult',
@@ -13,7 +15,8 @@ export class CustomerConsultComponent implements OnInit {
   dataSource: MatTableDataSource<any> = new MatTableDataSource;
 
   constructor(
-    private service: CustomerConsultService
+    private service: CustomerConsultService,
+    public dialog: MatDialog
   ) { }
 
   ngOnInit(): void {
@@ -37,7 +40,20 @@ export class CustomerConsultComponent implements OnInit {
   }
 
   public editCustomer(customer: any): void {
+    const openDialog = this.dialog.open(CustomerEditionModalComponent, {
+      width: '550px',
+      data: customer
+    });
+    openDialog.afterClosed().subscribe(res => {
+      res: this.updateCustomer(res)
+    })
+  }
 
+  public updateCustomer(customer: any): void {
+    const customerRequest = this.service.builderCustomerRegister(customer);
+    this.service.updateCustomer(customer.id, customerRequest).subscribe(res => {
+      res: this.getCustomer();
+    })
   }
 
 }
