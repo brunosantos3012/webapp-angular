@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  background-color: #FFFFFF;
+  padding-top: 50px;
+}
+
+.example-full-width {
+  padding-left: 15px;
+}
+
+.button {
+  display: flex;
+  justify-content: flex-end;
+}
+
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+
+}
+input[type=number] {
+ -moz-appearance: textfield;
+ appearance: textfield;
+}
