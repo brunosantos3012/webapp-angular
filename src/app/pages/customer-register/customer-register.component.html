@@ -32,11 +32,11 @@
 
       <mat-form-field class="example-full-width">
         <mat-label>Data de nascimento</mat-label>
-        <input matInput type="date" formControlName="birthDay">
+        <input matInput mask="00/00/0000" formControlName="birthDay">
         <mat-error *ngIf="formRegister.controls['birthDay'].hasError('required')">
           Obrigatório!
         </mat-error>
-        <mat-error *ngIf="formRegister.controls['birthDay'].hasError('data')">
+        <mat-error *ngIf="formRegister.controls['birthDay'].hasError('data') && !formRegister.controls['birthDay'].hasError('required')">
           Obrigatório ter no minimo 18 anos e menos de 60.
         </mat-error>
       </mat-form-field>

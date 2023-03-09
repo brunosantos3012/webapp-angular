@@ -1,48 +1,15 @@
 {
   "customer": [
     {
-      "id": "57c54012-6cca-4af7-86e9-139460f13b62",
-      "customerName": "Sara Albuquerque",
-      "cpf": "214.875.871-39",
-      "birthDay": "Thu May 07 1998 06: 34: 32 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "477.24",
-      "createdDate": "Sun Feb 26 2023 14: 03: 19 GMT-0300 (Horário Padrão de Brasília)",
-      "contact": {
-        "email": "Morgana67@bol.com.br"
-      }
-    },
-    {
-      "id": "28394d46-4b99-4a6b-83c9-bd6e916a3ee8",
-      "customerName": "Frederico Martins",
-      "cpf": "493.215.415-19",
-      "birthDay": "Sat Oct 15 1955 01: 48: 45 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "906.96",
-      "createdDate": "Sat Nov 12 2022 10: 45: 43 GMT-0300 (Horário Padrão de Brasília)",
-      "contact": {
-        "email": "Tho.Franco56@gmail.com"
-      }
-    },
-    {
-      "id": "03bb2a94-3525-4bfa-9fc8-daf6f1738ac4",
-      "customerName": "Alessandro Moreira",
-      "cpf": "570.626.312-48",
-      "birthDay": "Sat Mar 27 1976 13: 30: 29 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "368.85",
-      "createdDate": "Sun Aug 07 2022 17: 34: 22 GMT-0300 (Horário Padrão de Brasília)",
-      "contact": {
-        "email": "Klber.Franco@live.com"
-      }
-    },
-    {
-      "id": "0ba830d0-d77e-40ce-b9fb-c0a640b43f00",
-      "customerName": "Silas Reis",
+      "customerName": "bruno Reis",
       "cpf": "922.846.620-05",
-      "birthDay": "Thu Jun 02 1955 11: 57: 35 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "858.58",
+      "birthDay": "07/08/1996",
+      "monthlyFinance": "1.200",
       "createdDate": "Sat Nov 05 2022 22: 58: 07 GMT-0300 (Horário Padrão de Brasília)",
       "contact": {
-        "email": "AnaLaura21@bol.com.br"
-      }
+        "email": "AnaLaura21@gmail.com.br"
+      },
+      "id": "0ba830d0-d77e-40ce-b9fb-c0a640b43f00"
     },
     {
       "id": "3c1f8ec3-63d0-46dc-87d8-47136bdd3bd5",
@@ -881,17 +848,6 @@
       }
     },
     {
-      "id": "22413c4b-e656-45fe-8824-e043d0a26a33",
-      "customerName": "Warley Silva",
-      "cpf": "711.833.530-49",
-      "birthDay": "Tue Jun 08 1954 09: 15: 10 GMT-0300 (Horário Padrão de Brasília)",
-      "monthlyFinance": "440.93",
-      "createdDate": "Sat Apr 30 2022 09: 15: 32 GMT-0300 (Horário Padrão de Brasília)",
-      "contact": {
-        "email": "Davi70@hotmail.com"
-      }
-    },
-    {
       "id": "14851c77-b7ac-4acf-87c1-75a73794e0f7",
       "customerName": "Matheus Silva",
       "cpf": "142.943.721-92",
@@ -1308,6 +1264,17 @@
         "email": "bruno@gmail"
       },
       "id": "SY-m5kA"
+    },
+    {
+      "customerName": "gabriela rodrigues",
+      "cpf": "000000.000",
+      "birthDay": "2000-02-01",
+      "monthlyFinance": "10",
+      "createdDate": "Thu Mar 09 2023 16:49:06 GMT-0300 (Horário Padrão de Brasília)",
+      "contact": {
+        "email": "gab@gmail.com"
+      },
+      "id": "r6fB6nh"
     }
   ]
 }
